@@ -20,3 +20,31 @@ Wi-Fi at Windhoek
 WAN connections
 IP addressing
 Connectivity testing
+
+ Repository Structure
+
+### `/report`
+Contains the final project report and supporting documentation.
+
+### `/packet-tracer`
+Contains the completed Cisco Packet Tracer simulation.
+
+### `/packet-tracer/screenshots`
+Contains screenshots showing configuration and testing.
+
+### `/reflections`
+Contains individual reflections from each group member.
+
+Testing
+
+The network was tested using:
+
+- Ping
+- Traceroute
+- LAN connectivity tests
+- WAN connectivity tests
+- Wireless connectivity tests
+
+## Conclusion
+
+The completed simulation demonstrates connectivity between the four locations and provides wireless connectivity at the Windhoek headquarters.
